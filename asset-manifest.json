@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf18ab50.chunk.css",
+    "main.js": "/static/js/main.905f288a.chunk.js",
+    "main.js.map": "/static/js/main.905f288a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c0a5f382.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c0a5f382.js.map",
+    "static/js/2.596da64a.chunk.js": "/static/js/2.596da64a.chunk.js",
+    "static/js/2.596da64a.chunk.js.map": "/static/js/2.596da64a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c27f2d916f8b663e29da3ef0b57de96.js": "/precache-manifest.3c27f2d916f8b663e29da3ef0b57de96.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cf18ab50.chunk.css.map": "/static/css/main.cf18ab50.chunk.css.map",
+    "static/media/App.scss": "/static/media/Handlee-Regular.27f813ca.ttf",
+    "static/media/blur-baby.jpg": "/static/media/blur-baby.49a71962.jpg",
+    "static/media/logo-baby.jpg": "/static/media/logo-baby.f4880868.jpg",
+    "static/media/paper-plane.svg": "/static/media/paper-plane.03be321f.svg",
+    "static/media/smile-baby.jpg": "/static/media/smile-baby.f3b392b2.jpg",
+    "static/media/vid3.mp4": "/static/media/vid3.7a2b1a32.mp4"
+  }
+}
